@@ -2,8 +2,7 @@
   text-align: center;
   padding: 0mm;
   margin: 0mm;
-  background-color: #faf9fc;
-  background-image: url(/Images/pexels-pixabay-326311.jpg);
+  background-image: url(/Images/OIP.jpg);
 }
 .nav-top {
   position: fixed;
@@ -51,7 +50,6 @@
   width: 410mm;
   height: 230mm;
   display: inline-block;
-  background-color: #9771d9;
 }
 .top-header {
   display: flex;
