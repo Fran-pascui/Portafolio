@@ -58,18 +58,18 @@
 }
 .left-title {
   display: block;
-  padding: 10mm 10mm;
-  width: 15%;
+  padding: 3mm 3mm;
+  width: 80mm;
   text-align: center;
   background-color: #b3d971;
   border-radius: 20px;
 }
 .right-title {
-  width: 15%;
+  width: 90mm;
   text-align: center;
   background-color: #b3d971;
   border-radius: 20px;
-  padding: 10mm 10mm;
+  padding: 3mm 3mm;
 }
 .content {
   text-align: center;
