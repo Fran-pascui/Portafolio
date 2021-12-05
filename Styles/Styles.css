@@ -46,12 +46,13 @@
   border: solid 1mm blueviolet;
 }
 .home {
-  padding-top: 25mm;
+  padding-top: 20mm;
   width: 410mm;
   height: 230mm;
   display: inline-block;
 }
 .top-header {
+  margin-top: 10mm;
   display: flex;
   justify-content: space-evenly;
   padding: 5mm 5mm;
@@ -79,6 +80,7 @@
   background-color: #b3d971;
   width: 50%;
   display: inline-block;
+  margin-top: 10mm;
   padding: 3mm;
   border-radius: 30mm;
 }
@@ -86,6 +88,7 @@
   background-color: #b3d971;
   width: 50%;
   display: inline-block;
-  padding: 3mm;
+  margin-top: 10mm;
+  padding: 7mm 5mm;
   border-radius: 30mm;
 }
